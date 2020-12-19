@@ -1,0 +1,17 @@
+{
+  "name": "vBlog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "element-ui": "^2.3.5",
+    "gridsome": "^0.7.0",
+    "gridsome-source-graphql": "^1.0.2",
+    "markdown-it": "^12.0.3",
+    "vuex": "^3.5.1"
+  }
+}
